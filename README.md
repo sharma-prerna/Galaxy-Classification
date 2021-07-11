@@ -31,5 +31,5 @@
 ---
 
 # NOTE
-*For more information about dataset and models read document/report.
+*For more information about dataset and models read document/report.*
 
